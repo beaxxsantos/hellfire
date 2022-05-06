@@ -96,7 +96,7 @@ header section{
   a{
     text-decoration:none;
     color:black;
-    font-style: italic
+    font-style: italic;
   }
 
   a:hover{
@@ -106,5 +106,5 @@ header section{
   p{
     text-indent:40px;
     line-height: 24px;
-    font-weight: 700
+    font-weight: 700;
   }
