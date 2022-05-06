@@ -63,12 +63,28 @@ header section{
     text-align:center;
   }
   
+.list3{
+    list-style:none;
+    font-style: italic;
+    width:1770px;
+    height:40px;
+    text-shadow: 3px 5px  2px grey;
+    text-align:center;
+}
+
   .list1:hover{
       cursor: pointer;
     font-weight: 600;
     text-shadow: 3px 5px  10px rgb(77, 73, 73);
-    color: white;
+    color: black;
   }
+
+.list3:hover{
+    cursor: pointer;
+    font-weight: 600;
+    text-shadow: 3px 5px  10px rgb(77, 73, 73);
+    color: darkred;
+}
 
 .list:hover{
     cursor: pointer;
